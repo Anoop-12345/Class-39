@@ -111,6 +111,7 @@ class Game {
         gameState: 0,
         players: {}
       });
+      //Automatically reload chrome page
       window.location.reload();
     });
   }
